@@ -10,32 +10,32 @@
 # Table of Contents
 
 ## 🌟GUI Mini Projects->
-### GUI for find sum of two values
-### Student Registration GUI form
-### Multi User login form
-### Calculator GUI form
+### 1. GUI for find sum of two values
+### 2. Student Registration GUI form
+### 3. Multi User login form
+### 4. Calculator GUI form
 
 
 ## 🌟GUI Mini Projects->
-### How to create simple window
-### button and text box
-### Check box
-### Radio button
-### combo box
-### Spin Box
-### Slider
-### Progress Bar
-### Slider with progress bar
-### Event binding
-### Canvas(draw shapes)
-### Canvas(write using mouse)
-### Frames
-### Tree view design 01
-### Tree view design 02
-### Toggle button
-### Menu bar
-### Message Box
-### Tabs
-### Layouts
+### 1. How to create simple window
+### 2. button and text box
+### 3. Check box
+### 4. Radio button
+### 5. combo box
+### 6. Spin Box
+### 7. Slider
+### 8. Progress Bar
+### 9. Slider with progress bar
+### 10. Event binding
+### 11. Canvas(draw shapes)
+### 12. Canvas(write using mouse)
+### 13. Frames
+### 14. Tree view design 01
+### 15. Tree view design 02
+### 16. Toggle button
+### 17. Menu bar
+### 18. Message Box
+### 19. Tabs
+### 20. Layouts
 
 
