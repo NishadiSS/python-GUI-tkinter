@@ -8,3 +8,16 @@
 
 
 # Table of Contents
+
+## 🌟GUI Mini Projects->
+### GUI for find sum of two values
+### Student Registration GUI form
+### Multi User login form
+### Calculator GUI form
+
+
+## 🌟GUI Mini Projects->
+### GUI for find sum of two values
+### Student Registration GUI form
+### Multi User login form
+### Calculator GUI form
