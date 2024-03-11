@@ -22,6 +22,10 @@
 ### Check box
 ### Radio button
 ### combo box
+### Spin Box
+### Slider
+### Progress Bar
+### Slider with progress bar
 ### Event binding
 ### Canvas(draw shapes)
 ### Canvas(write using mouse)
