@@ -15,6 +15,9 @@
 ### 3. Multi User login form
 ### 4. Calculator GUI form
 
+# You tube video link
+https://www.youtube.com/playlist?list=PLPndZF6XGL4tTCCwzJFlMlU2GSl5WddWC
+
 
 ## 🌟GUI Mini Projects->
 ### 1. How to create simple window
@@ -37,5 +40,8 @@
 ### 18. Message Box
 ### 19. Tabs
 ### 20. Layouts
+
+# You Tube video link
+https://www.youtube.com/playlist?list=PLPndZF6XGL4sch0Eqdn06WV4JjXlwznDb
 
 
